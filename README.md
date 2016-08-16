@@ -4,5 +4,7 @@
 ### Week: 1
 ### Tools: CSS
 
-Assignment:
-  In order to learn and practice CSS layout properties, duplicate the following image by downloading the index.html starter file, adding a CSS file, and adding CSS rules to make the page look identical to the image.
+In order to learn and practice CSS layout properties, duplicate the provided design comp by... 
+  - downloading the index.html starter file
+  - adding a CSS file
+  - adding CSS rules to make the page look identical to the image
